@@ -18,3 +18,10 @@ Tools and Technologies
 
 Dataset
 The dataset simulates a logistics company’s delivery records, fleet data, cost reports, and return occurrences. All data is anonymized and fictional, created for educational and portfolio purposes.
+
+
+![imagem_2025-07-08_095333866](https://github.com/user-attachments/assets/dad4af08-7f69-4934-b64f-ac4471044a80)
+
+
+
+
