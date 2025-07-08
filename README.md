@@ -24,4 +24,5 @@ The dataset simulates a logistics company’s delivery records, fleet data, cost
 
 
 
+![image](https://github.com/user-attachments/assets/66f88dd0-21d6-4810-a797-1bdc380a8f69)
 
